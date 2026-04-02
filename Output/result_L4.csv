@@ -1,0 +1,7 @@
+cdr_id,subscriber_id,detected_leakage_type,detection_method,detection_confidence,detected_at
+84b602a3-6ed2-846d-8a39-f2dc61a38b54,1010,L4_duplicate,sql_rule,1,31/03/2026 19:13:38
+84b602a3-6ed2-846d-8a39-f2dc61a38a54,1010,L4_duplicate,sql_rule,1,31/03/2026 19:13:38
+84b602a3-6ed2-846d-8a39-g2dc61a38c63,1011,L4_duplicate,sql_rule,1,31/03/2026 19:13:38
+84b602a3-6ed2-846d-8a39-g2dc61a39c63,1011,L4_duplicate,sql_rule,1,31/03/2026 19:13:38
+84b602a3-6ed2-846d-8a39-h2dc61a38b62,1012,L4_duplicate,sql_rule,1,31/03/2026 19:13:38
+84b602a3-6ed2-846d-8a39-h2dc61a38b62,1012,L4_duplicate,sql_rule,1,31/03/2026 19:13:38
