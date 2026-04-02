@@ -1,0 +1,8 @@
+leakage_type,leakage_count
+L5_Zero_Rated,515
+L2_Wrong_Tariff,508
+L9_Misclassification,508
+L1_Unbilled,491
+L4_Duplicate_CDR,6
+L12_Partial_CDR,511
+L13_Timestamp_Fraud,498
